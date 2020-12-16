@@ -345,6 +345,7 @@ article > section > section {
 	margin-left: 0px;
 	font-size: 2rem;
 	box-shadow: 5px 5px 5px 3px black;
+	padding: 0.1rem 0.6rem;
 }
 
 .buy-now-btn:hover {
